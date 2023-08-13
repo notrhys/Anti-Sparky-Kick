@@ -1,0 +1,4 @@
+name: AntiSparkyKick
+main: me.rhys.impl.Plugin
+version: 1.0
+description: Prevents Sparky Anticheat from kicking your players
