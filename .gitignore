@@ -36,4 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
-*.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/encodings.xml
